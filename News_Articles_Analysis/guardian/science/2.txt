@@ -1,0 +1,48 @@
+Did you solve it? Gems from a mathematical wonderland
+The answers to today’s puzzles
+Earlier today I set you the following three problems.
+Solution: 64
+If we call the ‘size’ of a triangle the number of individual areas it contains, there are
+7 triangles of size 1
+14 triangles of size 2
+10 triangles of size 3
+13 triangles of size 4
+6 triangles of size 6
+6 triangles of size 8
+3 triangles of size 9
+4 triangles of size 12
+1 triangle of size 16
+Add them up at that makes 64 triangles in total.
+Solution: 25 per cent (or 1/4)
+Every ant can move in two possible directions, which makes 2³ = 8 possible sets of outcomes, all of which are equally likely.
+Only two of the outcomes have no collisions: when all ants are moving clockwise or anticlockwise. This means the probability is 2/8 = 1/4, or a 25 per cent chance.
+Solution: The statements ‘It is divisible by 16’ and ‘It is divisible by 17’
+Let N be the large integer that is the subject of the question.
+We are looking for the two incorrect statements, which we are told are consecutive.
+The first statement, that N is divisible by 1, must be true because every whole number is divisible by 1.
+The second statement, that N is divisible by 2, must also be true because if it was false, then all the even numbered statements would also be false, since N would not be divisible by 4, 6, 8 and so on, which would mean there are 15 incorrect statements, contradicting the premise.
+Using the same argument, the first 15 statements must also all be true. If N were not divisible by x, where x is between 1 to 15, then N would not be divisible by 2x, so you would have at least two incorrect but nonconsecutive statements.
+We conclude that the two incorrect statements must concern the numbers between 16 and 30.
+We know that N is divisible by all numbers from 2 to 15. We can express these numbers in terms of their prime factors:
+2
+3
+2 x 2
+5
+2 x 3
+7
+2 x 2 x 2
+3 x 3
+2 x 5
+11
+2 x 2 x 3
+13
+2 x 7
+3 x 5
+N must also be divisible by the lowest common multiple of all these numbers, which is 2³ × 3² × 5 × 7 × 11 x 13 = 360,360. (8 gives us three copies of 2, and 9 gives us two copies of 3.)
+This number is divisible by 18 (= 2 × 3²), 20 (= 2² × 5), 21 (= 3 × 7), 22, 24, 26, 28 and 30, so N is also divisible by these numbers.
+We are left with just seven possibilities for incorrect factors:
+The prime numbers 17, 19, 23 and 29
+Of these candidates, there is just one pair of consecutive numbers: 16 and 17.
+I hope you enjoyed today’s puzzles. I’ll be back in two weeks.
+I set a puzzle here every two weeks on a Monday. I’m always on the look-out for great puzzles. If you would like to suggest one, email me.
+Thanks to Philipp Legner for today’s puzzles. Check out his amazing website Mathigon.org.

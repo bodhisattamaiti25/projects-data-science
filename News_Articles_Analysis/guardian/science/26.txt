@@ -1,0 +1,16 @@
+Can you solve it? Gems from a mathematical wonderland
+The triangle, the ants and the mystery number
+Today, three puzzles from Mathigon, a remarkable maths website (about which more later).
+An easy one to start. Count the number of triangles in the image below.
+Careful though! It’s always easy to miss a few.
+Talking of (and walking on) triangles…here’s a probability question about random ants.
+Finally, a very nice logic problem based on arithmetic. If 28 out of the 30 statements in the list are correct, but the two that are wrong are consecutive, which ones do they have to be? (Consecutive meaning the two statements are next to each other in the list).
+Integer means whole number. I like this one since you don’t need to know the value of the large integer to work out the answer, although some of you might want to find it out.
+I’ll be back at 5pm UK time with the answers. Meanwhile NO SPOILERS.
+UPDATE: Solutions now available to read here.
+The puzzles – and the illustrations – are taken from Mathigon, a wonderful interactive maths ‘textbook’ that is free online. Rather than just presenting you with information, Mathigon challenges you with problems and allows you to interact with diagrams. It is one of the most accessible and engaging maths resources available on the web, a true mathematical wonderland. The text is well-written, the pages are beautifully designed and presented, and it covers a large array of topics.
+What’s particularly impressive about Mathigon, however, is that it has been conceived, coded, written and designed by a single person: Philipp Legner, aged 26. He has a unique combination of programming skills, a gift for exposition and an eye for design.
+Legner studied maths at Cambridge university. He got the idea for Mathigon when volunteering for a maths outreach project with local schools. “I always meet kids (and adults) who “hate” mathematics, so I wanted to develop a platform where every student can enjoy learning mathematics – just like I did. Rather than simply memorising equations and procedures, I want students to be able to explore, discover and be creative.”
+Legner has worked as a programmer for Bloomberg and Google but recently left to work on Mathigon full-time. The site has deservedly won several awards and he hopes to secure funding to keep it free for students. If you haven’t seen it before, I recommend you check it out. The URL is mathigon.org.
+I set a puzzle here every two weeks on a Monday. I’m always on the look-out for great puzzles. If you would like to suggest one, email me.
+I’m the author of several books of maths and puzzles, including Can You Solve My Problems. I also co-author Football School, a book series for kids that explains the world through football.

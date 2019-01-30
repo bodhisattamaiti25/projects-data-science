@@ -1,0 +1,40 @@
+Did you solve it? 2019 in numbers
+The solutions to today’s puzzles
+Earlier today I set you the following puzzles about the number 2019
+1) Date jam
+Here’s one set of possible solutions:
+0 x (2 + 1 + 9) = 0
+2 – 1 + (0 x 9) = 1
+2 + (0 x 1 x 9) = 2
+2 + 1 + (0 x 9) = 3
+9 – 2 – 1 – 0 = 6
+9 – 2 – (0 x 1) = 7
+9 – 1 – (0 x 2) = 8
+9 + (0 x 2 x 1) = 9
+9 + 1 + (0 x 2) = 10
+9 + 2 + (0 x 1) = 11
+9 + 1 + 2 + 0 = 12
+(ii) Create expressions using 2, 0, 1 and 9 for all the numbers from 13 to 20. Again each number must be used once and only once in each expression, but as well as the operators mentioned above you can now use concatenation (meaning you can join numbers up, for example, a 2 and a 0 can concatenate to 20) and exponentiation (meaning that one number can be the power of another, such as 19).
+90 + 12 = 13
+(10/2) + 9 = 14
+(9 x 2) –1 + 0 = 17
+(9 x 2) + (0 x 1) = 18
+(9 x 2) + 1 + 0 = 19
+(9 + 1 + 0) x 2 = 20
+(iii) How much higher can you go with just 2,0, 1 and 9? What other mathematical symbols do you need to create expressions all the way to 100?
+Reader Serenella from Italy got us up to 30 without much difficulty. The only symbol she needed to introduce was the “!” for factorial. (The factorial of a number is that number multiplied by all the numbers lower than it. So 3! = 3 x 2 x 1 = 6)
+2 + 10 + 9 = 21
+(9 × 2) + 10 = 28
+9 + (10 × 2) = 29
+20 + 1 + 9 = 30
+I’ll leave the remaining numbers as an open problem – please add the numbers from 31 to 100 below the line!
+2) Countdown conundrum
+Fill the blanks in the following equation, so that it makes arithmetical sense:
+10 9 8 7 6 5 4 3 2 1 = 2019
+You are allowed to use any of the basic mathematical operations, +, –, x, ÷, and as many brackets as you like. An answer might look something like (10 – 9 + 8) x (7 – 6 – 5)/(4 + 3 + 2 + 1) = 2019, but not this one since the equation is incorrect.
+Many of the solutions used the fact that 2019 = 673 x 3. These were the most elegant, in my opinion, such as this one by Serenella:
+((10 × 9 × 8) - (7 × 6) - 5) × ((4 –3) + (2 × 1))
+She’ll win a copy of my book. Thanks to everyone else who took part, and have a great 2019!
+I’ll be back in two weeks.
+I set a puzzle here every two weeks on a Monday. I’m always on the look-out for great puzzles. If you would like to suggest one, email me.
+I’m the author of several books of popular maths, including the puzzle books Can You Solve My Problems? and Puzzle Ninja. I also write the Football Schoolbook series for children aged 7-13.

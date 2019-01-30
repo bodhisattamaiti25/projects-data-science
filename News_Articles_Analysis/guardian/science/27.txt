@@ -1,0 +1,38 @@
+Did you solve it? Catriona's colourful conundrums
+The solutions to today’s puzzles
+Earlier today I set you the following five geometrical puzzles by Catriona Shearer. I hope you discovered the clever way of solving them, without recourse to pages of algebra.
+1. Orange segments
+If the radius of each semicircle is 5, what’s the total shaded area?
+Solution: 100. If you rearrange the shading as below:
+The four triangles would fit together to make a square whose side length is the diameter of each semicircle (10). So the total area is 100. 
+2. Double spiral
+Ten equally spaced dots are joined by semicircles to make this spiral. Is more of it shaded red or orange? By how much?
+The insight here to imagine chopping the spiral along the blue line and shifting the right side up by 4.
+3. Yellow arbelos
+The red line, of length 2, is perpendicular to the bases of the three semicircles. What’s the total shaded area?
+If you are not convinced that we can move the red line to the middle, then let’s solve the problem another (less elegant) way. Label the diameters of the two semicircles a and b, and add in lines x and y:
+We have three right-angled triangles here, which means we can use Pythagoras’ theorem on each one. One has hypotenuse x, one has hypotenuse y and one has hypotenuse (a + b), since the angle on a circle subtended by a diameter is right angle. 
+x2 = a2 + 22
+y2 = b2 + 22
+(a + b)2 = x2 + y2 
+If we combine these three equations to get rid of x and y we get.
+(a + b)2 – a2 – b2 = 8
+The shaded area is the area of the large semicircle, which has radius (a + b)/2, minus a semicircle with radius a/2 minus a semicircle with radius b/2. This works out as
+4. The pink donut
+The four dots are equally spaced. What’s the shaded area?
+We can try the same trick as last time here. If we assume that the position of the line is irrelevant (which it is), a convenient placement would be across the diameter.
+However, we can also use Pythagoras again to show that it doesn’t matter where the line is. If the line does not go through the centre, it creates two right-angled triangles as below.
+a2 = x2 + 32
+b2 = x2 + 12
+Subtract the second equation from the first and we get a2 – b2 = 8. 
+5. Blue triangle
+The area of the bottom left square is 5. What’s the area of the blue triangle?
+Solution: 10
+We’re going to need some extra lines as help. First, add the following diagonal to the big square. It is parallel to one of the sides of the triangle. If we call that side of the triangle its base, the triangle’s height is the perpendicular distance between the base and the dotted line.
+When you shear a triangle by sliding the apex along a line parallel to the base, its area stays the same. In this case, this means that if you keep the base of the blue triangle but move the apex along the dotted line, the area stays the same. So the blue triangle below has the same area as the blue triangle above. 
+We can do the same again, this time considering the base of the blue triangle the line with the \ slope through the middle square. If the apex moves along the dotted line below (parallel to the base), the area of the blue triangle stays the same. 
+The blue triangle thus has an area that is half the middle square. Since we know the small square has area 5, the middle square must have area 20. Thus the blue triangle has area 10.
+There was a quicker way to solve this puzzle. Since there was no information about the size of the large square, you could have assumed from the start that it had any size, such as 0. This gets us to step 2 instantly. 
+Thanks again to Catriona Shearer for today’s puzzles. Follow her on twitter at @cshearer41 for many more problems like these ones. 
+I’ll be back in 2 weeks.
+I set a puzzle here every two weeks on a Monday. I’m always on the look-out for great puzzles. If you would like to suggest one, email me.
